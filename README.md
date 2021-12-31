@@ -1,7 +1,7 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekyiu&count_private=true&hide=assembly,scilab,html"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekyiu&count_private=true&hide=assembly,scilab,html&theme=buefy"/>
 <h3>Hi there 👋</h3>
 <br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekyiu&count_private=true&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=bekyiu&count_private=true&show_icons=true&theme=buefy"/>
 
 <!--
 **bekyiu/bekyiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
